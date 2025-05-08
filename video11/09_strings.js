@@ -61,5 +61,10 @@ const userName = "Rohan-RC-Chan";
 console.log(userName.split('-'));
 
 
+// go to chrome and inspect and go to console  
+// type 
+// const varName  = new String('Rohan-Rocky') 
+// then type
+// varName
 
-
+// you get a list of functions of string use as a reference
